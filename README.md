@@ -90,13 +90,6 @@ Click Predict Sprinklers.
 
 View ON/OFF sprinkler recommendations for each farm parcel.
 
-📸 Output Screenshots
-
-🖼️ 1️⃣ Dashboard Home Screen
-
-🖼️ 2️⃣ Prediction Screen
-
-🖼️ 3️⃣ Sprinkler Status
 
 
 🌟 Features
