@@ -102,6 +102,12 @@ View ON/OFF sprinkler recommendations for each farm parcel.
 
 ✅ Future scope for IoT & fully automated irrigation.
 
+Output Screenshots:
+<img width="1257" height="580" alt="image" src="https://github.com/user-attachments/assets/31873d20-d5f1-49a0-a12d-94cbd92b37ff" />
+<img width="1277" height="536" alt="image" src="https://github.com/user-attachments/assets/7fcded58-f401-4e96-9695-1b69678d9eaa" />
+
+
+
 📈 Future Enhancements
 
 🌐 IoT device integration for automatic sprinkler control.
